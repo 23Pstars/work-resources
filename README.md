@@ -1,6 +1,8 @@
 # Work Resources
 Tool dan layanan yang saya gunakan sehari-hari.
 
+http://github.zaf.web.id/work-resources.html
+
 ## Framework
 
 **CSS**

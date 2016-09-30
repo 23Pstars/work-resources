@@ -1,7 +1,5 @@
 # Work Resources
-Tool dan layanan yang saya gunakan sehari-hari.
-
-http://github.zaf.web.id/work-resources.html
+Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://github.zaf.web.id/work-resources.html)
 
 ## Framework
 
@@ -58,6 +56,10 @@ http://github.zaf.web.id/work-resources.html
 **Analytics**
 - [Google Analytics](analytics.google.com) - whole site monitoring & analysis
 - [AddThis](https://www.addthis.com) - social sharing 
+
+**Repositories**
+- [GitHub](https://github.com)
+- [BitBucket](https://bitbucket.org)
 
 ## Learning
 

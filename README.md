@@ -73,5 +73,6 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 - [Free Code School](https://www.freecodecamp.com/)
 
 **Magz and Info**
-- [codepolitan](codepolitan.com)
-- [techinasia](techinasia.com)
+- [Codepolitan](codepolitan.com)
+- [Tech in Asia](techinasia.com)
+- [Product Hunt](https://www.producthunt.com)

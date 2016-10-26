@@ -28,6 +28,14 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 **PHP**
 - [Laravel](laravel.com)
 
+## Server
+
+**Manage**
+- [Webuzo](www.webuzo.com) - Kelola beberapa web dalam server
+
+**Monitor**
+- [Monit](https://mmonit.com/monit) - Monitoring (dan beberapa aksi lainnya) service yang berjalan pada server
+
 ## Utilities
 
 **Design**

@@ -40,7 +40,8 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 
 **Design**
 - [Proto io](proto.io) - prototyping web dan mobile ui
-- [Sketch](https://www.sketchapp.com) - mockup UI
+- [Sketch](https://www.sketchapp.com) - mockup UI (licensed)
+- [Origami](http://origami.design) - mockup UI (free by facebook)
 - [Flinto](https://www.flinto.com) - prototyping and animating
 
 **Development**

@@ -52,6 +52,7 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 - [Google Docs](https://www.google.com/intl/en-GB/docs/about/) - Kolaborasi edit dokumen
 - [Google Sheet](https://www.google.com/intl/en-GB/sheets/about/) - - Kolaborasi edit sheet
 - [Google Slide](https://www.google.com/intl/en-GB/slides/about/) - Buat presentasi online
+- [Read the Docs](https://readthedocs.org) - Dokumentasi online
 
 **Communication**
 - [Google Hangout](https://hangouts.google.com/) - Chat untuk kerjaan
@@ -68,7 +69,7 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 
 **Repositories**
 - [GitHub](https://github.com)
-- [BitBucket](https://bitbucket.org)
+- [Bitbucket](https://bitbucket.org)
 
 ## Learning
 

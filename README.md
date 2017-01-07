@@ -68,8 +68,9 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 - [AddThis](https://www.addthis.com) - social sharing 
 
 **Repositories**
-- [GitHub](https://github.com)
-- [Bitbucket](https://bitbucket.org)
+- [GitHub](https://github.com) - bayar untuk private, free untuk publik
+- [Bitbucket](https://bitbucket.org) - free private untuk 5 users (1 grup), free untuk pubik
+- [GitLab](https://gitlab.com) - unlimited private and public
 
 **Others**
 - [octotree](https://github.com/buunguyen/octotree) - chrome extension untuk memudahkan review github source

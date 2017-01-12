@@ -1,5 +1,12 @@
 # Work Resources
-Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://github.zaf.web.id/work-resources.html)
+Tool, layanan, dan perangkat yang saya gunakan sehari-hari &mdash; [view online](http://github.zaf.web.id/work-resources.html)
+
+## Stuff
+
+- [Laptop](https://zaf.web.id/blog/yes-my-first-apple-macbook-pro/)
+- [Tablet](https://zaf.web.id/blog/review-apple-ipad-pro/)
+- [Mouse](https://zaf.web.id/blog/review-apple-mouse-magic/)
+- [Pencil](https://zaf.web.id/blog/review-apple-pencil/)
 
 ## Framework
 
@@ -35,6 +42,7 @@ Tool dan layanan yang saya gunakan sehari-hari &mdash; [view online](http://gith
 
 **Monitor**
 - [Monit](https://mmonit.com/monit) - Monitoring (dan beberapa aksi lainnya) service yang berjalan pada server
+- [BitNinja](https://bitninja.io) - Monitor dan amankan server dari beberapa jenis serangan
 
 ## Utilities
 
